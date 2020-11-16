@@ -1,0 +1,142 @@
+@media (max-width: 1399px){
+    .feature-inner ul li {
+        margin-top: 13px;
+    }
+}
+@media (max-width: 1199px){
+    .feature-inner ul li {
+        font-size: 18px;
+        margin-top: 5px;
+    }
+}
+@media (max-width: 991px){
+    .banner-inner h1 {
+        font-size: 23px;
+    }
+    .banner-inner p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .text-section p {
+        font-size: 15px;
+    }
+    .portfolio-inner p {
+        letter-spacing: 3px;
+    }
+    .portfolio-inner h4 {
+        font-size: 19px;
+    }
+    .feature-inner ul h1 {
+        font-size: 39px;
+    }
+    .feature-inner ul li {
+        font-size: 15px;
+        margin-top: 0px;
+    }
+}
+@media (max-width: 767px){
+    .banner-inner h1 {
+        font-size: 29px;
+    }
+    .banner-inner p {
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .text-section p {
+        font-size: 14px;
+    }
+    .portfolio-inner h4 {
+        font-size: 14px;
+    }
+    .portfolio-inner p {
+        font-size: 14px;
+    }
+    .feature-inner ul h1{
+        padding: 10px 0px;
+        text-align: center;
+    }
+    .text-section h2 {
+        font-size: 27px;
+    }
+    .feature-inner ul li {
+        font-size: 18px;
+        letter-spacing: 1px;
+        line-height: 1.9;
+    }
+}
+@media (max-width: 575px){
+    .portfolio-inner{
+        text-align: center;
+    }
+    .portfolio-inner p {
+        font-size: 16px;
+        letter-spacing: 5px;
+    }
+    .portfolio-inner h4 {
+        font-size: 19px;
+        margin-bottom: 25px;
+    }
+    
+    .portfolio-inner{
+        text-align: center;
+    }
+    .feature-inner ul h1{
+        padding: 10px 0px;
+        text-align: center;
+    }
+    .feature-inner ul li {
+        font-size: 16px;
+        letter-spacing: 1px;
+        line-height: 1.9;
+    }
+}
+@media (max-width: 480px){
+    .banner-inner h1 {
+        font-size: 20px;
+    }
+    .banner-inner p {
+        font-size: 12px;
+        font-weight: 500;
+    }
+    .banner-inner h4 {
+        font-size: 23px;
+    }
+    .btn-info {
+        color: #fff;
+        font-size: 14px;
+    }
+    .text-section p {
+        font-size: 9px;
+    }
+    .portfolio-inner{
+        text-align: center;
+    }
+    .portfolio-inner p {
+        font-size: 14px;
+        letter-spacing: 3px;
+    }
+    .portfolio-inner h4 {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+    
+    .feature-section{
+        width: 100%;
+    }
+    .feature-inner ul h1 {
+        padding: 10px 0px;
+        font-size: 30px;
+        text-align: center;
+    }
+    .feature-inner ul li {
+        font-size: 10px;
+        letter-spacing: 1px;
+        line-height: 1.9;
+    }
+    .text-section h2 {
+        font-size: 17px;
+    }
+    footer p {
+        font-size: 16px;
+    }
+}
